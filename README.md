@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, me name is Serj 👋
 
-## I'm Beginner Front-End Developer
+# I'm Beginner Front-End Developer. I try to learn something new every day.
 
 <!--
 **serjml/serjml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
