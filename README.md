@@ -1,4 +1,4 @@
-### Hi there, me name is Serj 👋
+### Hi there, my name is Serj 👋
 
 # I'm Beginner Front-End Developer. I try to learn something new every day.
 
