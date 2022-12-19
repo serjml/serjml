@@ -54,6 +54,6 @@ My Self-Introduction
 
 ### 📊 &nbsp; My Stats:
 
-[![](https://www.codewars.com/users/serjml/badges/large)](https://www.codewars.com/users/serjm)
+[![](https://www.codewars.com/users/serjml/badges/large)](https://www.codewars.com/users/serjml)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serjml&theme=highcontrast&show_icons=true)
