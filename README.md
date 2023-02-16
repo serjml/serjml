@@ -40,6 +40,7 @@ My Self-Introduction
 ### 🧩 &nbsp; **My projects**
 
 - [Virtual keyboard](https://serjml.github.io/virtual-keyboard/virtual-keyboard/)
+- [Calculator](https://serjml-calculator.netlify.app)
 - [Online Store](https://serjml-online-store.netlify.app/)
 - [Portfolio](https://mellifluous-concha-6e9236.netlify.app/)
 - [Tic Tac Toe](https://splendid-sprite-8ec8b3.netlify.app/)
